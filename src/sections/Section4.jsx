@@ -34,10 +34,10 @@ function Section4() {
                    </div>
                    <div className="col-lg-4 mb-2 d-flex justify-content-center">
                        <div className="card-card  shadow-lg">
-                           <img src="/standard-card.png" alt="Standard Card" className="imgcardoptions" />
+                           <img src="/img/carddesign1.png" alt="Standard Card" className="imgcardoptions" />
                            <div className="mt-3">
-                           <h4><b>Sami Ramz</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span className="yellowstar"><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i></span></h4>
-                           <span className="text-white">GM Bahmani Group Pvt. Ltd.</span>
+                           <h4><b>Habib Razzaq</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span className="yellowstar"><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i><i className="bi bi-star-fill"></i></span></h4>
+                           <span className="text-white">CEO Aam Bat</span>
                            <p className='text-white-50'>
                         The NFC business card has streamlined my networking process. It's efficient and impressive, making it easy to share my details with potential clients. A must-have for any professional.</p>
                            </div>
